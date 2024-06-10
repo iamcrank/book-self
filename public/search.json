@@ -1,0 +1,765 @@
+{
+    "numFound": 68,
+    "start": 0,
+    "numFoundExact": true,
+    "docs": [
+        {
+            "author_key": [
+                "OL2822775A"
+            ],
+            "author_name": [
+                "Victoria Griffin"
+            ],
+            "ebook_access": "no_ebook",
+            "ebook_count_i": 0,
+            "edition_count": 1,
+            "edition_key": [
+                "OL41603402M"
+            ],
+            "first_publish_year": 2019,
+            "has_fulltext": false,
+            "isbn": [
+                "1687595429",
+                "9781687595423"
+            ],
+            "key": "/works/OL30263473W",
+            "language": [
+                "eng"
+            ],
+            "last_modified_i": 1669489491,
+            "public_scan_b": false,
+            "publish_date": [
+                "2019"
+            ],
+            "publish_year": [
+                2019
+            ],
+            "publisher": [
+                "Independently Published"
+            ],
+            "seed": [
+                "/books/OL41603402M",
+                "/works/OL30263473W",
+                "/authors/OL2822775A"
+            ],
+            "title": "Craft Your Query",
+            "title_suggest": "Craft Your Query",
+            "title_sort": "Craft Your Query",
+            "type": "work",
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1795899585883799554,
+            "author_facet": [
+                "OL2822775A Victoria Griffin"
+            ]
+        },
+        {
+            "author_key": [
+                "OL6948411A"
+            ],
+            "author_name": [
+                "Library of Congress. Copyright Office"
+            ],
+            "contributor": [
+                "Library of Congress. Copyright Office."
+            ],
+            "ebook_access": "no_ebook",
+            "ebook_count_i": 0,
+            "edition_count": 1,
+            "edition_key": [
+                "OL17583778M"
+            ],
+            "first_publish_year": 1999,
+            "has_fulltext": false,
+            "key": "/works/OL18438370W",
+            "language": [
+                "eng"
+            ],
+            "last_modified_i": 1549492008,
+            "oclc": [
+                "42305136"
+            ],
+            "public_scan_b": false,
+            "publish_date": [
+                "1999"
+            ],
+            "publish_place": [
+                "Washington, D.C"
+            ],
+            "publish_year": [
+                1999
+            ],
+            "publisher": [
+                "Copyright Office, Library of Congress"
+            ],
+            "seed": [
+                "/books/OL17583778M",
+                "/works/OL18438370W",
+                "/authors/OL6948411A",
+                "/subjects/games",
+                "/subjects/copyright",
+                "/subjects/place:united_states"
+            ],
+            "title": "In answer to your query",
+            "title_suggest": "In answer to your query",
+            "title_sort": "In answer to your query",
+            "type": "work",
+            "subject": [
+                "Games",
+                "Copyright"
+            ],
+            "place": [
+                "United States"
+            ],
+            "publisher_facet": [
+                "Copyright Office, Library of Congress"
+            ],
+            "place_key": [
+                "united_states"
+            ],
+            "subject_facet": [
+                "Copyright",
+                "Games"
+            ],
+            "_version_": 1795867366692749312,
+            "place_facet": [
+                "United States"
+            ],
+            "author_facet": [
+                "OL6948411A Library of Congress. Copyright Office"
+            ],
+            "subject_key": [
+                "copyright",
+                "games"
+            ]
+        },
+        {
+            "author_key": [
+                "OL6948411A"
+            ],
+            "author_name": [
+                "Library of Congress. Copyright Office"
+            ],
+            "contributor": [
+                "Library of Congress. Copyright Office."
+            ],
+            "ebook_access": "no_ebook",
+            "ebook_count_i": 0,
+            "edition_count": 1,
+            "edition_key": [
+                "OL17059964M"
+            ],
+            "first_publish_year": 1996,
+            "has_fulltext": false,
+            "key": "/works/OL18538851W",
+            "language": [
+                "eng"
+            ],
+            "last_modified_i": 1549600852,
+            "oclc": [
+                "35852529"
+            ],
+            "public_scan_b": false,
+            "publish_date": [
+                "1996"
+            ],
+            "publish_place": [
+                "Washington, D.C"
+            ],
+            "publish_year": [
+                1996
+            ],
+            "publisher": [
+                "Copyright Office, Library of Congress"
+            ],
+            "seed": [
+                "/books/OL17059964M",
+                "/works/OL18538851W",
+                "/authors/OL6948411A",
+                "/subjects/cookery",
+                "/subjects/copyright",
+                "/subjects/place:united_states"
+            ],
+            "title": "In answer to your query",
+            "title_suggest": "In answer to your query",
+            "title_sort": "In answer to your query",
+            "type": "work",
+            "subject": [
+                "Cookery",
+                "Copyright"
+            ],
+            "place": [
+                "United States"
+            ],
+            "publisher_facet": [
+                "Copyright Office, Library of Congress"
+            ],
+            "place_key": [
+                "united_states"
+            ],
+            "subject_facet": [
+                "Cookery",
+                "Copyright"
+            ],
+            "_version_": 1795867759462055936,
+            "place_facet": [
+                "United States"
+            ],
+            "author_facet": [
+                "OL6948411A Library of Congress. Copyright Office"
+            ],
+            "subject_key": [
+                "cookery",
+                "copyright"
+            ]
+        },
+        {
+            "author_key": [
+                "OL6948411A"
+            ],
+            "author_name": [
+                "Library of Congress. Copyright Office"
+            ],
+            "contributor": [
+                "Library of Congress. Copyright Office"
+            ],
+            "ebook_access": "no_ebook",
+            "ebook_count_i": 0,
+            "edition_count": 1,
+            "edition_key": [
+                "OL14539385M"
+            ],
+            "first_publish_year": 2004,
+            "has_fulltext": false,
+            "key": "/works/OL18402531W",
+            "language": [
+                "eng"
+            ],
+            "last_modified_i": 1549452887,
+            "oclc": [
+                "54450995"
+            ],
+            "public_scan_b": false,
+            "publish_date": [
+                "2004"
+            ],
+            "publish_place": [
+                "[Washington, D.C"
+            ],
+            "publish_year": [
+                2004
+            ],
+            "publisher": [
+                "U.S. Copyright Office"
+            ],
+            "seed": [
+                "/books/OL14539385M",
+                "/works/OL18402531W",
+                "/authors/OL6948411A",
+                "/subjects/cookery",
+                "/subjects/copyright",
+                "/subjects/place:united_states"
+            ],
+            "title": "In answer to your query",
+            "title_suggest": "In answer to your query",
+            "title_sort": "In answer to your query",
+            "type": "work",
+            "subject": [
+                "Cookery",
+                "Copyright"
+            ],
+            "place": [
+                "United States"
+            ],
+            "publisher_facet": [
+                "U.S. Copyright Office"
+            ],
+            "place_key": [
+                "united_states"
+            ],
+            "subject_facet": [
+                "Cookery",
+                "Copyright"
+            ],
+            "_version_": 1795867467404279808,
+            "place_facet": [
+                "United States"
+            ],
+            "author_facet": [
+                "OL6948411A Library of Congress. Copyright Office"
+            ],
+            "subject_key": [
+                "cookery",
+                "copyright"
+            ]
+        },
+        {
+            "author_key": [
+                "OL6948411A"
+            ],
+            "author_name": [
+                "Library of Congress. Copyright Office"
+            ],
+            "contributor": [
+                "Library of Congress. Copyright Office"
+            ],
+            "ebook_access": "no_ebook",
+            "ebook_count_i": 0,
+            "edition_count": 1,
+            "edition_key": [
+                "OL14539381M"
+            ],
+            "first_publish_year": 2004,
+            "has_fulltext": false,
+            "key": "/works/OL18364859W",
+            "language": [
+                "eng"
+            ],
+            "last_modified_i": 1549417910,
+            "oclc": [
+                "54451017"
+            ],
+            "public_scan_b": false,
+            "publish_date": [
+                "2004"
+            ],
+            "publish_place": [
+                "[Washington, D.C"
+            ],
+            "publish_year": [
+                2004
+            ],
+            "publisher": [
+                "U.S. Copyright Office"
+            ],
+            "seed": [
+                "/books/OL14539381M",
+                "/works/OL18364859W",
+                "/authors/OL6948411A",
+                "/subjects/copyright",
+                "/subjects/anonyms_and_pseudonyms",
+                "/subjects/place:united_states"
+            ],
+            "title": "In answer to your query",
+            "title_suggest": "In answer to your query",
+            "title_sort": "In answer to your query",
+            "type": "work",
+            "subject": [
+                "Copyright",
+                "Anonyms and pseudonyms"
+            ],
+            "place": [
+                "United States"
+            ],
+            "publisher_facet": [
+                "U.S. Copyright Office"
+            ],
+            "place_key": [
+                "united_states"
+            ],
+            "subject_facet": [
+                "Anonyms and pseudonyms",
+                "Copyright"
+            ],
+            "_version_": 1795867547568963584,
+            "place_facet": [
+                "United States"
+            ],
+            "author_facet": [
+                "OL6948411A Library of Congress. Copyright Office"
+            ],
+            "subject_key": [
+                "anonyms_and_pseudonyms",
+                "copyright"
+            ]
+        },
+        {
+            "author_key": [
+                "OL6948411A"
+            ],
+            "author_name": [
+                "Library of Congress. Copyright Office"
+            ],
+            "contributor": [
+                "Library of Congress. Copyright Office."
+            ],
+            "ebook_access": "no_ebook",
+            "ebook_count_i": 0,
+            "edition_count": 1,
+            "edition_key": [
+                "OL17583488M"
+            ],
+            "first_publish_year": 1999,
+            "has_fulltext": false,
+            "key": "/works/OL18379769W",
+            "language": [
+                "eng"
+            ],
+            "last_modified_i": 1549431629,
+            "oclc": [
+                "41631732"
+            ],
+            "public_scan_b": false,
+            "publish_date": [
+                "1999"
+            ],
+            "publish_place": [
+                "[Washington, D.C"
+            ],
+            "publish_year": [
+                1999
+            ],
+            "publisher": [
+                "Library of Congress, Copyright Office"
+            ],
+            "seed": [
+                "/books/OL17583488M",
+                "/works/OL18379769W",
+                "/authors/OL6948411A",
+                "/subjects/copyright",
+                "/subjects/place:united_states"
+            ],
+            "title": "In answer to your query",
+            "title_suggest": "In answer to your query",
+            "title_sort": "In answer to your query",
+            "type": "work",
+            "subject": [
+                "Copyright"
+            ],
+            "place": [
+                "United States"
+            ],
+            "publisher_facet": [
+                "Library of Congress, Copyright Office"
+            ],
+            "place_key": [
+                "united_states"
+            ],
+            "subject_facet": [
+                "Copyright"
+            ],
+            "_version_": 1795867125395488768,
+            "place_facet": [
+                "United States"
+            ],
+            "author_facet": [
+                "OL6948411A Library of Congress. Copyright Office"
+            ],
+            "subject_key": [
+                "copyright"
+            ]
+        },
+        {
+            "author_key": [
+                "OL6948411A"
+            ],
+            "author_name": [
+                "Library of Congress. Copyright Office"
+            ],
+            "contributor": [
+                "Library of Congress. Copyright Office."
+            ],
+            "ebook_access": "no_ebook",
+            "ebook_count_i": 0,
+            "edition_count": 1,
+            "edition_key": [
+                "OL14708853M"
+            ],
+            "first_publish_year": 1994,
+            "has_fulltext": false,
+            "key": "/works/OL18502382W",
+            "language": [
+                "eng"
+            ],
+            "last_modified_i": 1549561284,
+            "oclc": [
+                "32186131"
+            ],
+            "public_scan_b": false,
+            "publish_date": [
+                "1994"
+            ],
+            "publish_place": [
+                "Washington, D.C"
+            ],
+            "publish_year": [
+                1994
+            ],
+            "publisher": [
+                "Copyright Office, Library of Congress"
+            ],
+            "seed": [
+                "/books/OL14708853M",
+                "/works/OL18502382W",
+                "/authors/OL6948411A",
+                "/subjects/copyright",
+                "/subjects/place:united_states"
+            ],
+            "title": "In answer to your query",
+            "title_suggest": "In answer to your query",
+            "title_sort": "In answer to your query",
+            "type": "work",
+            "subject": [
+                "Copyright"
+            ],
+            "place": [
+                "United States"
+            ],
+            "publisher_facet": [
+                "Copyright Office, Library of Congress"
+            ],
+            "place_key": [
+                "united_states"
+            ],
+            "subject_facet": [
+                "Copyright"
+            ],
+            "_version_": 1795867617024540673,
+            "place_facet": [
+                "United States"
+            ],
+            "author_facet": [
+                "OL6948411A Library of Congress. Copyright Office"
+            ],
+            "subject_key": [
+                "copyright"
+            ]
+        },
+        {
+            "author_key": [
+                "OL6948411A"
+            ],
+            "author_name": [
+                "Library of Congress. Copyright Office"
+            ],
+            "contributor": [
+                "Library of Congress. Copyright Office"
+            ],
+            "ebook_access": "no_ebook",
+            "ebook_count_i": 0,
+            "edition_count": 1,
+            "edition_key": [
+                "OL14539379M"
+            ],
+            "first_publish_year": 2004,
+            "has_fulltext": false,
+            "key": "/works/OL18404629W",
+            "language": [
+                "eng"
+            ],
+            "last_modified_i": 1549454886,
+            "oclc": [
+                "54451011"
+            ],
+            "public_scan_b": false,
+            "publish_date": [
+                "2004"
+            ],
+            "publish_place": [
+                "[Washington, D.C"
+            ],
+            "publish_year": [
+                2004
+            ],
+            "publisher": [
+                "U.S. Copyright Office"
+            ],
+            "seed": [
+                "/books/OL14539379M",
+                "/works/OL18404629W",
+                "/authors/OL6948411A",
+                "/subjects/international_copyright",
+                "/subjects/copyright",
+                "/subjects/place:united_states"
+            ],
+            "title": "In answer to your query",
+            "title_suggest": "In answer to your query",
+            "title_sort": "In answer to your query",
+            "type": "work",
+            "subject": [
+                "International Copyright",
+                "Copyright"
+            ],
+            "place": [
+                "United States"
+            ],
+            "publisher_facet": [
+                "U.S. Copyright Office"
+            ],
+            "place_key": [
+                "united_states"
+            ],
+            "subject_facet": [
+                "Copyright",
+                "International Copyright"
+            ],
+            "_version_": 1795867045081907200,
+            "place_facet": [
+                "United States"
+            ],
+            "author_facet": [
+                "OL6948411A Library of Congress. Copyright Office"
+            ],
+            "subject_key": [
+                "copyright",
+                "international_copyright"
+            ]
+        },
+        {
+            "author_key": [
+                "OL6948411A"
+            ],
+            "author_name": [
+                "Library of Congress. Copyright Office"
+            ],
+            "contributor": [
+                "Library of Congress. Copyright Office."
+            ],
+            "ebook_access": "no_ebook",
+            "ebook_count_i": 0,
+            "edition_count": 1,
+            "edition_key": [
+                "OL17583779M"
+            ],
+            "first_publish_year": 1999,
+            "has_fulltext": false,
+            "key": "/works/OL18486520W",
+            "language": [
+                "eng"
+            ],
+            "last_modified_i": 1549542723,
+            "oclc": [
+                "42305116"
+            ],
+            "public_scan_b": false,
+            "publish_date": [
+                "1999"
+            ],
+            "publish_place": [
+                "Washington, D.C"
+            ],
+            "publish_year": [
+                1999
+            ],
+            "publisher": [
+                "Copyright Office, Library of Congress"
+            ],
+            "seed": [
+                "/books/OL17583779M",
+                "/works/OL18486520W",
+                "/authors/OL6948411A",
+                "/subjects/copyright",
+                "/subjects/place:united_states"
+            ],
+            "title": "In answer to your query",
+            "title_suggest": "In answer to your query",
+            "title_sort": "In answer to your query",
+            "type": "work",
+            "subject": [
+                "Copyright"
+            ],
+            "place": [
+                "United States"
+            ],
+            "publisher_facet": [
+                "Copyright Office, Library of Congress"
+            ],
+            "place_key": [
+                "united_states"
+            ],
+            "subject_facet": [
+                "Copyright"
+            ],
+            "_version_": 1795867556570988544,
+            "place_facet": [
+                "United States"
+            ],
+            "author_facet": [
+                "OL6948411A Library of Congress. Copyright Office"
+            ],
+            "subject_key": [
+                "copyright"
+            ]
+        },
+        {
+            "author_key": [
+                "OL6948411A"
+            ],
+            "author_name": [
+                "Library of Congress. Copyright Office"
+            ],
+            "contributor": [
+                "Library of Congress. Copyright Office"
+            ],
+            "ebook_access": "no_ebook",
+            "ebook_count_i": 0,
+            "edition_count": 1,
+            "edition_key": [
+                "OL14539384M"
+            ],
+            "first_publish_year": 2004,
+            "has_fulltext": false,
+            "key": "/works/OL18450441W",
+            "language": [
+                "eng"
+            ],
+            "last_modified_i": 1549504078,
+            "oclc": [
+                "54450998"
+            ],
+            "public_scan_b": false,
+            "publish_date": [
+                "2004"
+            ],
+            "publish_place": [
+                "[Washington, D.C"
+            ],
+            "publish_year": [
+                2004
+            ],
+            "publisher": [
+                "U.S. Copyright Office"
+            ],
+            "seed": [
+                "/books/OL14539384M",
+                "/works/OL18450441W",
+                "/authors/OL6948411A",
+                "/subjects/copyright",
+                "/subjects/place:united_states"
+            ],
+            "title": "In answer to your query",
+            "title_suggest": "In answer to your query",
+            "title_sort": "In answer to your query",
+            "type": "work",
+            "subject": [
+                "Copyright"
+            ],
+            "place": [
+                "United States"
+            ],
+            "publisher_facet": [
+                "U.S. Copyright Office"
+            ],
+            "place_key": [
+                "united_states"
+            ],
+            "subject_facet": [
+                "Copyright"
+            ],
+            "_version_": 1795867513068716032,
+            "place_facet": [
+                "United States"
+            ],
+            "author_facet": [
+                "OL6948411A Library of Congress. Copyright Office"
+            ],
+            "subject_key": [
+                "copyright"
+            ]
+        }
+    ],
+    "num_found": 68,
+    "q": "YOUR_QUERY",
+    "offset": null
+}
